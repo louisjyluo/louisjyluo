@@ -1,32 +1,36 @@
 # Louis Luo
 
-> cs + stats @ ubc · building things that (mostly) work
+CS + STATS @ UBC
+> Building things that (mostly) work
 
 ---
 
 ### languages
-![Java](https://img.shields.io/badge/Java-E6F1FB?style=flat&logoColor=0C447C)
-![Python](https://img.shields.io/badge/Python-E6F1FB?style=flat&logoColor=0C447C)
-![JavaScript](https://img.shields.io/badge/JavaScript-E6F1FB?style=flat&logoColor=0C447C)
-![TypeScript](https://img.shields.io/badge/TypeScript-E6F1FB?style=flat&logoColor=0C447C)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-E6F1FB?style=flat&logoColor=0C447C)
-![C#](https://img.shields.io/badge/C%23-E6F1FB?style=flat&logoColor=0C447C)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-E6F1FB?style=flat&logoColor=0C447C)
+![Java](https://img.shields.io/badge/Java-185FA5?style=flat&logoColor=E6F1FB)
+![Python](https://img.shields.io/badge/Python-185FA5?style=flat&logoColor=E6F1FB)
+![JavaScript](https://img.shields.io/badge/JavaScript-185FA5?style=flat&logoColor=E6F1FB)
+![TypeScript](https://img.shields.io/badge/TypeScript-185FA5?style=flat&logoColor=E6F1FB)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-185FA5?style=flat&logoColor=E6F1FB)
+![C#](https://img.shields.io/badge/C%23-185FA5?style=flat&logoColor=E6F1FB)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-185FA5?style=flat&logoColor=E6F1FB)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-185FA5?style=flat&logoColor=E6F1FB)
 
 ### frameworks
-![React](https://img.shields.io/badge/React-E1F5EE?style=flat&logoColor=085041)
-![Node.js](https://img.shields.io/badge/Node.js-E1F5EE?style=flat&logoColor=085041)
-![Angular](https://img.shields.io/badge/Angular-E1F5EE?style=flat&logoColor=085041)
-![LangChain](https://img.shields.io/badge/LangChain-E1F5EE?style=flat&logoColor=085041)
-![Flask](https://img.shields.io/badge/Flask-E1F5EE?style=flat&logoColor=085041)
-![Redis](https://img.shields.io/badge/Redis-E1F5EE?style=flat&logoColor=085041)
+![React](https://img.shields.io/badge/React-0F6E56?style=flat&logoColor=E1F5EE)
+![Node.js](https://img.shields.io/badge/Node.js-0F6E56?style=flat&logoColor=E1F5EE)
+![Angular](https://img.shields.io/badge/Angular-0F6E56?style=flat&logoColor=E1F5EE)
+![Redis](https://img.shields.io/badge/Redis-0F6E56?style=flat&logoColor=E1F5EE)
+![Sidekiq](https://img.shields.io/badge/Sidekiq-0F6E56?style=flat&logoColor=E1F5EE)
+![LangChain](https://img.shields.io/badge/LangChain-0F6E56?style=flat&logoColor=E1F5EE)
+![Flask](https://img.shields.io/badge/Flask-0F6E56?style=flat&logoColor=E1F5EE)
 
 ### tools
-![Git](https://img.shields.io/badge/Git-EEEDFE?style=flat&logoColor=3C3489)
-![Jenkins](https://img.shields.io/badge/Jenkins-EEEDFE?style=flat&logoColor=3C3489)
-![Unity](https://img.shields.io/badge/Unity-EEEDFE?style=flat&logoColor=3C3489)
-![VS Code](https://img.shields.io/badge/VS_Code-EEEDFE?style=flat&logoColor=3C3489)
-![Postman](https://img.shields.io/badge/Postman-EEEDFE?style=flat&logoColor=3C3489)
+![Git](https://img.shields.io/badge/Git-534AB7?style=flat&logoColor=EEEDFE)
+![Jenkins](https://img.shields.io/badge/Jenkins-534AB7?style=flat&logoColor=EEEDFE)
+![VS Code](https://img.shields.io/badge/VS_Code-534AB7?style=flat&logoColor=EEEDFE)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-534AB7?style=flat&logoColor=EEEDFE)
+![Unity](https://img.shields.io/badge/Unity-534AB7?style=flat&logoColor=EEEDFE)
+![Postman](https://img.shields.io/badge/Postman-534AB7?style=flat&logoColor=EEEDFE)
 
 ---
 
